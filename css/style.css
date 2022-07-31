@@ -1,0 +1,160 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+@media screen and (max-width:560px){
+    
+    
+}
+.container nav{
+    float: right;
+    
+}
+nav a{
+    color: #95B3C2;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration:none ;
+}
+
+.btn_credencias{
+    background-color: #F2784E;
+    color: aliceblue;
+    padding: 12px 40px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    
+
+}
+
+.sec01{
+    color: #47555C;
+    background-image: url(../img/19366.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    height: 600px;
+    
+    
+}
+.sec01 p.titulo{
+    font-size: 30px;
+    padding-top: 100px;
+    text-align: center;
+}
+.sec01 p.subtitulo01{
+    font-size: 20px;
+    text-align: center;
+   
+}
+.sec01 p.subtitulo02{
+    font-size: 20px;
+    text-align: center;
+
+}
+.sec02{
+    border-bottom: 1px solid rgb(204, 204,204);
+}
+.sec02 p{
+    font-size: 24px;
+    text-align: center;
+    color: #47555C;
+}
+.sec02 img{
+    width: 100%;
+}
+.sec03{
+    
+    border-bottom: 1px solid rgb(204, 204,204);
+}
+.sec03 p{
+    font-size: 24px;
+    text-align: center;
+    color: #47555C;
+}
+.sec03 img{
+    width: 100%;
+}
+
+
+h2{
+    color: #5A6C75;
+    font-family: "Monotype Corsiva";
+}
+
+.rodape{
+    text-align: center;
+    background-color: #47555C;
+    color: beige;
+}
+.progress-bar-container:not(:last-child) {
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.progress-bar-container h2 {
+    font-family: "Monotype Corsiva";
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.progress-bar {
+    width: 95%;
+    height: 5px;
+    margin-top: 10px;
+    border: 1px solid #565656;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(245, 159, 0);
+}
+.percentage {
+    display: block;
+    height: 100%;
+    background-color: orange;
+    border-radius: 5px;
+    animation: progress 1500ms ease-in 1;
+}
+.html {
+    width: 75%;
+}
+.css {
+    width: 75%;
+}
+.javascript {
+    width: 75%;
+}
+.java {
+    width: 20%;
+}
+.python {
+    width: 0%;
+}
+.mkt{
+    width: 40%;
+}
+.designT{
+    width: 30%;
+}
+.agile{
+    width: 60%;
+}
+.dados{
+    width: 0%;
+}
+.sql{
+    width: 80%;
+}
+.git{
+    width: 35%;
+}
+#links{
+text-align: right;
+}

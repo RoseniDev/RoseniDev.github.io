@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.0px"
+   height="16.0px"
+   viewBox="0 0 16.0 16.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="desenho.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.64"
+     inkscape:cx="396.875"
+     inkscape:cy="560.9375"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g442">
+      <text
+         xml:space="preserve"
+         style="font-size:85.3333px;fill:#4d4d4d"
+         x="-508.17969"
+         y="453.13977"
+         id="text131-3"><tspan
+           sodipodi:role="line"
+           id="tspan129-7"
+           x="-508.17969"
+           y="453.13977"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva Bold';fill:#4d4d4d">ROSENI DUTRA</tspan><tspan
+           sodipodi:role="line"
+           x="-508.17969"
+           y="564.95929"
+           style="font-size:85.3333px;fill:#4d4d4d"
+           id="tspan183-8" /><tspan
+           sodipodi:role="line"
+           x="-508.17969"
+           y="671.62592"
+           style="font-size:85.3333px;fill:#4d4d4d"
+           id="tspan185-0" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:85.3333px;fill:#008000"
+         x="-504.29111"
+         y="450.90704"
+         id="text131"><tspan
+           sodipodi:role="line"
+           id="tspan129"
+           x="-504.29111"
+           y="450.90704"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva Bold';fill:#008000">ROSENI DUTRA</tspan><tspan
+           sodipodi:role="line"
+           x="-504.29111"
+           y="562.72656"
+           style="font-size:85.3333px;fill:#008000"
+           id="tspan183" /><tspan
+           sodipodi:role="line"
+           x="-504.29111"
+           y="669.39319"
+           style="font-size:85.3333px;fill:#008000"
+           id="tspan185" /></text>
+    </g>
+  </g>
+</svg>
